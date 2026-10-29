@@ -59,7 +59,6 @@ The PySpark engine evaluates dataset health ($H$) by computing individual dimens
 Big-Data-Essentials/
 │
 ├── app.py                                  # Main integrated Streamlit + PySpark application
-├── generate_data.py                        # Synthetic big data generator script with error injection
 ├── requirements.txt                        # Python package dependencies
 ├── README.md                               # Project documentation
 │
